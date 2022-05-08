@@ -3,9 +3,11 @@ HackDefine Hackathon Project
 
 Most NGOs do not have a streamlined platform to interact with those in need and those who are willing to help.
 Our creation, ReachOut allows NGOs to create and deploy their own portals for effective management and help them reach more people.
+
 Any NGO can sign up at ReachOut with few simple steps and start taking the benefits from the services.
 One can post about the upcoming events, ask for volunteers, ask for help and they say imagination has no limits.
 ReachOut is like facebook of the social world and linkedIn of the corporate world.
+
 Our Inspiration
 Most of our college life till now, we have spent at our home. When our college started 3 of our team members joinded Drishti, our college's rotaract club. People at drishti do all sort of social work but there is always need of more resources and volunteers.
 We went through the problem statements of the hackathon and realised what better opportunity we will get to create something to address the problem.
