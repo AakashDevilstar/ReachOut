@@ -1,0 +1,27 @@
+.outerBox {
+    max-width: 1100px;
+    margin: 1rem auto;
+    border-radius: 1rem;
+    box-shadow: 1px 1px 40px rgb(222, 222, 222);
+    background-color: white;
+    padding: 3rem;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.myPosts {
+    border-radius: 1rem;
+    box-shadow: 1px 1px 40px rgb(222, 222, 222);
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+@media (max-width:990px) {
+    .outerBox {
+        flex-direction: column;
+        gap: 1rem;
+        align-items: center;
+    }
+}

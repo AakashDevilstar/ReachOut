@@ -1,0 +1,13 @@
+.form {
+    width: 470px;
+    box-shadow: 1px 1px 40px rgb(222, 222, 222);
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 1rem;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    margin-top: 1.5rem;
+}

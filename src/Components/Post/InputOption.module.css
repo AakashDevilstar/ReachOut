@@ -1,0 +1,20 @@
+.inputOption {
+  display: flex;
+  /* align-items: center;  */
+  justify-content: space-between;
+  cursor: pointer;
+  border: none;
+  border-radius: 0.3rem;
+  padding: 0.5rem 1rem;
+  gap: 0.3rem;
+}
+
+.inputOption p {
+  font-size: 1rem;
+  margin: 0px;
+}
+
+.icon {
+  width: 1rem;
+  height: 1rem;
+}

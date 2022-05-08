@@ -1,0 +1,13 @@
+.body{
+    background-color: white;
+}
+
+.textArea {
+    padding: 0.4rem;
+    outline: none;
+    width: 100%;
+    margin-top: 1rem;
+    border-radius: 0.3rem;
+    border: none;
+    background-color: rgb(243, 243, 243);
+}

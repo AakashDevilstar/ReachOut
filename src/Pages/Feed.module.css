@@ -1,0 +1,12 @@
+.layout {
+    display: flex;
+    margin: 1rem auto 0 auto;
+    max-width: 1200px;
+    justify-content: space-between;
+}
+
+@media (max-width:1000px) {
+    .layout{
+        justify-content: center;
+    }
+}

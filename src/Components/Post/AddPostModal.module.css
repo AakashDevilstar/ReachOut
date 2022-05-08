@@ -1,0 +1,80 @@
+.backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    z-index: 20;
+    background-color: rgba(0, 0, 0, 0.75);
+}
+
+.modal {
+    position: fixed;
+    top: 20vh;
+    left: 5%;
+    width: 90%;
+    background-color: white;
+    padding: 1rem;
+    border-radius: 14px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    z-index: 30;
+    animation: slide-down 300ms ease-out forwards;
+}
+
+.head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.head button {
+    border: none;
+    border-radius: 50%;
+    padding: 0 0.7rem;
+    background-color: white;
+    
+}
+
+.addPost label {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.addPost label img {
+    width: 3rem;
+    border-radius: 50%;
+}
+
+.addPost textarea {
+    padding: 0.4rem;
+    outline: none;
+    width: 100%;
+    margin-top: 1rem;
+    border-radius: 0.3rem;
+    border: none;
+    background-color: rgb(243, 243, 243);
+}
+
+.addPost button {
+    margin-top: 1rem;
+}
+
+@media (min-width: 768px) {
+    .modal {
+        width: 40rem;
+        left: calc(50% - 20rem);
+    }
+}
+
+@keyframes slide-down {
+    from {
+        opacity: 0;
+        transform: translateY(-3rem);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+  

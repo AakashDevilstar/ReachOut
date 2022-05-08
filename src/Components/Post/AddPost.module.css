@@ -1,0 +1,30 @@
+.post{
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    width: 500px;
+    box-shadow: 1px 1px 40px rgb(222, 222, 222);
+    display: flex;
+    gap: 1rem;
+}
+
+.post img {
+    width: 3rem;
+    border-radius: 50%;
+}
+
+.post button {
+    border-radius: 10rem;
+    border: 1px solid grey;
+    padding: 0.1rem 1rem;
+    width: 100%;
+    color: gray;
+    text-align: start;
+}
+
+@media (max-width:990px) {
+    .post {
+        width: 470px;
+    }
+}

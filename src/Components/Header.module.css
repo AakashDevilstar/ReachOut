@@ -1,0 +1,56 @@
+.x{
+    background-color: #1976d2;
+}
+
+.x .logo{
+    color: #fff;
+    font-size: 1.8rem;
+    font-family: 'Courgette', cursive;
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
+
+.x .navbarLink{
+    color: #fff;
+}
+
+.heading {
+    margin-left: 1rem !important;
+}
+
+.x .logo:hover{
+    color: #fff;
+}
+
+
+.viewProfile {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+}
+
+.viewProfile img {
+    width: 3rem;
+    border-radius: 50%;
+}
+
+.sideLinks {
+    display: flex;
+    align-items: center;
+    margin-right: 1rem;
+}
+
+@media (max-width:990px) {
+    .sideLinks {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .viewProfile img {
+        display: none;
+    }
+
+    .x .logo{
+        color: #fff;
+        font-size: 1.4rem;
+    }
+}
