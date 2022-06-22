@@ -40,7 +40,7 @@ These are somethings we would have wanted to add to our work and hope to learn t
 4. AND HERE IT GOES...
 
 ## Team Members 
-<p>Amandeep Singh</p>
-<p>Aakash Raturi</p>
-<p>Pratham Sharma</p>
-<p>Ramanpreet Singh</p>
+<p>Amandeep Singh, Bhagwan Parshuram Institute of Technology</p>
+<p>Aakash Raturi, Bhagwan Parshuram Institute of Technology</p>
+<p>Pratham Sharma, Bhagwan Parshuram Institute of Technology</p>
+<p>Ramanpreet Singh, Guru Tegh Bahadur Institute of Technology</p>
