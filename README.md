@@ -1,3 +1,5 @@
+
+
 # ReachOut
 HackDefine Hackathon Project
 
@@ -36,3 +38,9 @@ These are somethings we would have wanted to add to our work and hope to learn t
 3. TYPE 'npm start'
 <br />
 4. AND HERE IT GOES...
+
+## Team Members 
+<p>Amandeep Singh</p>
+<p>Aakash Raturi</p>
+<p>Pratham Sharma</p>
+<p>Ramanpreet Singh</p>
